@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a039fe3-8284-42b4-9169-80c13c23aa0c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b.2A30_TriCompSnapVertexCat.html" afterPath="$PROJECT_DIR$/b.2A30_TriCompSnapVertexCat.html" />
     </list>
     <ignored path="ShorterEuclideanGeoSurvey.iws" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="b.2A30_TriCompSnapVertexCat.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/b.2A30_TriCompSnapVertexCat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="75" column="84" selection-start-line="75" selection-start-column="84" selection-end-line="75" selection-end-column="84" />
+            <state relative-caret-position="641">
+              <caret line="180" column="8" selection-start-line="180" selection-start-column="8" selection-end-line="180" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -218,12 +217,12 @@
       <updated>1468593646685</updated>
       <workItem from="1468593647975" duration="480000" />
       <workItem from="1468613003234" duration="5281000" />
-      <workItem from="1468940363663" duration="674000" />
+      <workItem from="1468940363663" duration="1124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6435000" />
+    <option name="totallyTimeSpent" value="6885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1620" height="987" extended-state="0" />
@@ -429,8 +428,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b.2A30_TriCompSnapVertexCat.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="75" column="84" selection-start-line="75" selection-start-column="84" selection-end-line="75" selection-end-column="84" />
+        <state relative-caret-position="641">
+          <caret line="180" column="8" selection-start-line="180" selection-start-column="8" selection-end-line="180" selection-end-column="8" />
           <folding />
         </state>
       </provider>
