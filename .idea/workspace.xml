@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a039fe3-8284-42b4-9169-80c13c23aa0c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/b.2A30_KLogger.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/b.2A30_logVertexCat.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/b.2A30_logVertexCatExp.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/b.2A30_processPos.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/b.2A30_processVertexCat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/b.2A30_xml_writer.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="4a039fe3-8284-42b4-9169-80c13c23aa0c" name="Default" comment="" />
     <ignored path="ShorterEuclideanGeoSurvey.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -196,18 +188,18 @@
       <updated>1468593646685</updated>
       <workItem from="1468593647975" duration="480000" />
       <workItem from="1468613003234" duration="5281000" />
-      <workItem from="1468940363663" duration="3588000" />
+      <workItem from="1468940363663" duration="3637000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9349000" />
+    <option name="totallyTimeSpent" value="9398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1620" height="987" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
