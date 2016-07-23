@@ -3,7 +3,7 @@
 
 
 header('Content-Type: text/html; charset=utf-8');
-require_once 'b.2A30_KLogger.php';
+require_once 'KLogger.php';
 
 $log = new KLogger ( "/var/www/html/php/logPos.txt" , KLogger::DEBUG );
 
