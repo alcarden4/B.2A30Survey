@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a039fe3-8284-42b4-9169-80c13c23aa0c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b.2A30_TriCompExpHandlerVertexCat.js" afterPath="$PROJECT_DIR$/b.2A30_TriCompExpHandlerVertexCat.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b.2A30_processVertexCat.php" afterPath="$PROJECT_DIR$/b.2A30_processVertexCat.php" />
-    </list>
+    <list default="true" id="4a039fe3-8284-42b4-9169-80c13c23aa0c" name="Default" comment="" />
     <ignored path="ShorterEuclideanGeoSurvey.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -256,7 +251,7 @@
       <workItem from="1469461426584" duration="370000" />
       <workItem from="1469634776399" duration="219000" />
       <workItem from="1469717380994" duration="233000" />
-      <workItem from="1469722375147" duration="284000" />
+      <workItem from="1469722375147" duration="329000" />
     </task>
     <servers />
   </component>
@@ -266,7 +261,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17026000" />
+    <option name="totallyTimeSpent" value="17071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1620" height="987" extended-state="0" />
