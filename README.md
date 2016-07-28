@@ -1,2 +1,2 @@
-#Base length of .4
-#Angle degree 45
+#Base length of .2
+#Angle degree 30
