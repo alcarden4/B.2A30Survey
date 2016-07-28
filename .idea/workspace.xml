@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a039fe3-8284-42b4-9169-80c13c23aa0c" name="Default" comment="" />
+    <list default="true" id="4a039fe3-8284-42b4-9169-80c13c23aa0c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b.4A45_TriCompSnapVertexCat.html" afterPath="$PROJECT_DIR$/b.4A45_TriCompSnapVertexCat.html" />
+    </list>
     <ignored path="ShorterEuclideanGeoSurvey.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,16 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="b.2A30_TriCompExpHandlerVertexCat.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b.2A30_TriCompExpHandlerVertexCat.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret line="186" column="34" selection-start-line="186" selection-start-column="34" selection-end-line="186" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="KLogger.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KLogger.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -52,41 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="b.2A30_xml_writer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b.2A30_xml_writer.php">
+      <file leaf-file-name="b.4A45_TriCompSnapVertexCat.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/b.4A45_TriCompSnapVertexCat.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b.2A30_processPos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b.2A30_processPos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b.2A30_processVertexCat.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b.2A30_processVertexCat.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="b.2A30_TriCompSnapVertexCat.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b.2A30_TriCompSnapVertexCat.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="180" column="8" selection-start-line="180" selection-start-column="8" selection-end-line="180" selection-end-column="8" />
+            <state relative-caret-position="225">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -115,6 +77,7 @@
         <option value="$PROJECT_DIR$/b.2A30_TriCompExpHandlerVertexCat.js" />
         <option value="$PROJECT_DIR$/b.2A30_processVertexCat.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/b.4A45_TriCompSnapVertexCat.html" />
       </list>
     </option>
   </component>
@@ -251,7 +214,7 @@
       <workItem from="1469461426584" duration="370000" />
       <workItem from="1469634776399" duration="219000" />
       <workItem from="1469717380994" duration="233000" />
-      <workItem from="1469722375147" duration="329000" />
+      <workItem from="1469722375147" duration="583000" />
     </task>
     <servers />
   </component>
@@ -261,7 +224,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17071000" />
+    <option name="totallyTimeSpent" value="17325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="23" width="1620" height="987" extended-state="0" />
@@ -305,7 +268,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/php/b.2A30_KLogger.php" />
     <entry file="file://$PROJECT_DIR$/php/b.2A30_processPos.php" />
     <entry file="file://$PROJECT_DIR$/php/b.2A30_processVertexCat.php" />
     <entry file="file://$PROJECT_DIR$/php/b.2A30_KLogger.php" />
@@ -438,6 +400,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b.4A45_TriCompSnapVertexCat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding />
         </state>
       </provider>
